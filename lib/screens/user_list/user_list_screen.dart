@@ -44,6 +44,7 @@ class UserListScreen extends StatelessWidget {
                       xController.error.value != null
                           ? xController.error.value!
                           : 'No Data Found',
+                      textAlign: TextAlign.center,
                       style: theme.textTheme.bodyMedium!.copyWith(
                         color: theme.colorScheme.onSurfaceVariant,
                       ),
