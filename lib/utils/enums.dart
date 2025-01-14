@@ -1,0 +1,1 @@
+enum ImageLoadType { network, asset }

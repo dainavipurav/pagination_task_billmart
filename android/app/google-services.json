@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "643231543022",
+    "firebase_url": "https://pagination-task-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pagination-task",
+    "storage_bucket": "pagination-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643231543022:android:a09cace1893e0f42e64dff",
+        "android_client_info": {
+          "package_name": "com.example.pagination_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nEvOP0ro_V4e6GHNaJSiELr0_UfTTcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643231543022:android:0b8c5c3406c3d148e64dff",
+        "android_client_info": {
+          "package_name": "com.example.pegination_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nEvOP0ro_V4e6GHNaJSiELr0_UfTTcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
